@@ -1,4 +1,4 @@
-# {Project or document title}
+# Catena — REST Connection Type
 
 ## General
 
