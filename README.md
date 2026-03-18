@@ -22,7 +22,7 @@ The following elements are made available for a public review period ending no e
 ### Overview
 SMPTE ST 2138 _Catena_ specifies a standardization of communication methods between (micro)services and full products designed for hybrid cloud and on-premises solutions, with the goal of making it easy to secure, connect and control a multi-vendor ecosystem of media processing services and microservices, no matter where they are in a true plug-and-play model.
 
-ST 2138-12 defines the use of a REST connection manager with Catena.
+SMPTE ST 2138-12 defines the use of a REST connection manager with Catena.
 
 ### The Hybrid Environment Reality
 Today's environments typically encompass a combination of on-premises and cloud environments. Solutions span a variety of platforms, and must interoperate, regardless of where they are hosted.
