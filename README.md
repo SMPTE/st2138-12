@@ -13,7 +13,7 @@ Your feedback is welcome at _link to GitHub issue tracker_ or at _TC chair email
 
 The following elements are made available for a public review period ending no earlier than 2026-03-02, and no later than 2026-09-01:
 
-* <a href="https://github.com/SMPTE/ST-2138-12/blob/main/34CS-PCD-ST-2138-12-Catena-REST-Connection-Type-2026-0x-0x.pdf">SMPTE PCD ST 2138-12 REST Connection Type</a>
+* <a href="https://github.com/SMPTE/ST-2138-12/blob/main/34CS-PCD-ST-2138-12-Catena-REST-Connection-Type-2026-03-24.pdf">SMPTE PCD ST 2138-12 REST Connection Type</a>
 * <a href="https://github.com/SMPTE/st2138-a.git">https://github.com/SMPTE/st2138-a.git</a>
 * <a href="https://github.com/SMPTE/st2138-a/blob/main/interface/schemata/device.yaml">https://github.com/SMPTE/st2138-a/blob/main/interface/schemata/device.yaml</a>
 
